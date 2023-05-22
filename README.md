@@ -34,7 +34,7 @@ npm run start
 
 ## Usage 
 
-
+For teachers to keep track of their current students 
 
 ## License 
   

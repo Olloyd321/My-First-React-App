@@ -22,6 +22,16 @@ To install dependencies run the following command:
 npm i
 ```
 
+
+## Operation
+
+
+To start the application run the following command: 
+
+```
+npm run start
+```
+
 ## Usage 
 
 
